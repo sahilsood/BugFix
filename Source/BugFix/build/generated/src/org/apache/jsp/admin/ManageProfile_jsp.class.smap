@@ -1,0 +1,22 @@
+SMAP
+ManageProfile_jsp.java
+JSP
+*S JSP
+*F
++ 0 ManageProfile.jsp
+admin/ManageProfile.jsp
+*L
+1,47:57
+48:104,3
+49,3:107
+52,4:111
+55:115
+56:116,3
+57,89:119
+145:300,11
+146:311,6
+147:317
+147,67:210
+214:277,3
+215,2:280
+*E

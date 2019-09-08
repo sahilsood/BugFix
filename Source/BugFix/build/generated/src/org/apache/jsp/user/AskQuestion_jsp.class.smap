@@ -1,0 +1,16 @@
+SMAP
+AskQuestion_jsp.java
+JSP
+*S JSP
+*F
++ 0 AskQuestion.jsp
+user/AskQuestion.jsp
+*L
+1,11:44
+12:55,3
+13,2:58
+15:60,3
+16,61:63
+76:123,2
+77,3:125
+*E
